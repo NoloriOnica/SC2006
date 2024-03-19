@@ -1,0 +1,200 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+#bg {
+  background-image: "url(/assets/food_bg.jpg)";
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-origin: padding-box;
+}
+#i88x4i {
+  position: absolute;
+  top: 20%;
+  right: 0%;
+  bottom: auto;
+  left: 20%;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  display: block;
+  width: 60%;
+  background-color: rgba(0, 0, 0, 1);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  height: 40%;
+}
+#ibjl4j {
+  font-family: Helvetica, sans-serif;
+  color: rgb(248, 94, 8);
+  text-align: center;
+  text-decoration: none;
+  font-weight: 700;
+  position: absolute;
+  right: 0%;
+  bottom: auto;
+  left: 0%;
+  width: 100%;
+  padding-top: 3%;
+  font-size: 150%;
+}
+#idtnxa {
+  position: relative;
+  top: 25%;
+}
+#ivglol {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  width: 45%;
+  height: 50px;
+  margin-right: 5px;
+}
+#iiqtvg {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  width: 45%;
+  height: 50px;
+  margin-right: 5px;
+}
+#igq7ei {
+  position: relative;
+  top: 30%;
+}
+#ij542h {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  width: 45%;
+  height: 50px;
+  margin-right: 5px;
+}
+#ija4eh {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  width: 45%;
+  height: 50px;
+  margin-right: 5px;
+}
+#ioe2fi {
+  position: relative;
+  top: 40%;
+}
+#iz5pzj {
+  font-family: Helvetica, sans-serif;
+  font-weight: 700;
+  text-align: center;
+  background-color: rgba(67, 67, 67, 1);
+  color: rgba(255, 255, 255, 1);
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  width: 90%;
+  height: 40px;
+}
+.gjs-grid-column {
+  flex: 1 1 0%;
+  padding: 5px 0;
+}
+#ia4yqs {
+  position: absolute;
+  top: 75%;
+  right: 0%;
+  left: 10%;
+  bottom: auto;
+  width: 80%;
+  font-family: Helvetica, sans-serif;
+  background-color: rgb(248, 94, 8);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  opacity: 90%;
+}
+.gjs-grid-row {
+  display: flex;
+  justify-content: flex-start;
+  align-items: stretch;
+  flex-direction: row;
+  min-height: auto;
+  padding: 10px 0;
+}
+#intd94 {
+  padding: 10px;
+}
+#i46pbp {
+  padding: 10px;
+}
+#i6cuzt {
+  background-color: rgb(248, 94, 8);
+  position: absolute;
+  top: 5%;
+  right: auto;
+  bottom: auto;
+  left: 5%;
+  font-family: Helvetica, sans-serif;
+  font-weight: 700;
+  text-align: center;
+}

@@ -1,0 +1,134 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+#bg {
+  background-image: "url(/assets/food_bg.jpg)";
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-origin: padding-box;
+}
+#form {
+  position: absolute;
+  top: 25%;
+  right: 0%;
+  bottom: auto;
+  left: 30%;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  display: block;
+  width: 40%;
+  background-color: rgba(0, 0, 0, 1);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  height: 40%;
+}
+#title {
+  font-family: Helvetica, sans-serif;
+  color: rgb(248, 94, 8);
+  text-align: center;
+  text-decoration: none;
+  font-weight: 700;
+  position: absolute;
+  right: 0%;
+  bottom: auto;
+  left: 0%;
+  width: 100%;
+  padding-top: 3%;
+  font-size: 250%;
+}
+#div2 {
+  position: relative;
+  top: 25%;
+}
+#inputgc {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  width: 80%;
+  height: 50px;
+}
+#div3 {
+  position: relative;
+  top: 30%;
+}
+#inputname {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  width: 80%;
+  height: 50px;
+}
+#div4 {
+  position: relative;
+  top: 40%;
+}
+#buttjoin {
+  font-family: Helvetica, sans-serif;
+  font-weight: 700;
+  text-align: center;
+  background-color: rgba(67, 67, 67, 1);
+  color: rgba(255, 255, 255, 1);
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  width: 90%;
+  height: 40px;
+}
+#buttcg {
+  background-color: rgb(248, 94, 8);
+  position: absolute;
+  top: 80%;
+  right: 0%;
+  bottom: auto;
+  left: 45%;
+  font-family: Helvetica, sans-serif;
+  font-weight: 700;
+  text-align: center;
+  width: 10%;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
