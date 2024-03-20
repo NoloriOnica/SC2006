@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+#bg {
+  background-image: "url(/assets/food_bg.jpg)";
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-origin: padding-box;
+}
